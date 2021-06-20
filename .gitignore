@@ -1,0 +1,16 @@
+build
+node_modules
+.idea
+*.iml
+*.log
+doc/development/*.png
+doc/development/*.png.cache
+doc/development/.asciidoctor/
+frontend/tmp
+*secret.yaml
+distribution
+release.properties
+versionMetaInfo
+migrate.json
+bin/darwin
+frontend/package-lock.json
