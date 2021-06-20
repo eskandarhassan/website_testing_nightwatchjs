@@ -80,3 +80,7 @@ Finally, run the tests:
 ```
 npm run test
 ```
+And the expected output looks like this:
+
+
+![Screenshot 2021-06-20 at 17 47 55](https://user-images.githubusercontent.com/24881592/122690563-8c587980-d22a-11eb-8762-d8c49214ebd2.jpg)
