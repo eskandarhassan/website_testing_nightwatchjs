@@ -45,7 +45,7 @@ Change your test script to ```nightwatch``` so your ```package.json``` looks lik
 
 #### Setting up ```Nightwatch.js``` and the test folder: 
 
-You can create your configuration file **two** different ways. One is by letting the framework do all the work by running ```npm run test```; this will create a huge file with all possible configurations (this way is depreciated for this project). Another way is to  create a ```nightwatch.conf.js``` file with just the essentials: your test folder, a webdriver path, the default settings, and a screenshot-on-failure feature:
+You can create your configuration file **two** different ways. One is by letting the framework do all the work by running ```npm run test```; this will create a huge file with all possible configurations (this way is depreciated for this project). Another way is to  configure a ```nightwatch.conf.js``` file with just the essentials: your test folder, a webdriver path, the default settings, and a screenshot-on-failure feature:
 
 ```
 module.exports = {
